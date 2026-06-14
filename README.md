@@ -5,7 +5,7 @@
 <div align="center">
 
 <img 
-src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=AhmadUllah%20Mukhlis&fontSize=42&fontAlign=50&fontAlignY=38&desc=Senior%20Full-Stack%20Software%20Engineer&descAlign=50&descAlignY=58"
+src="https://vercel.app"
 />
 
 </div>
@@ -22,12 +22,12 @@ Senior Full-Stack Engineer • Enterprise Architect • Payment Systems Speciali
 
 <div align="center">
 
-<a href="https://github.com/AhmadUllahMukhlis">
-<img src="https://komarev.com/ghpvc/?username=AhmadUllahMukhlis&style=for-the-badge&color=0e75b6">
+<a href="https://github.com">
+<img src="https://komarev.com">
 </a>
 
-<a href="https://github.com/AhmadUllahMukhlis?tab=followers">
-<img src="https://img.shields.io/github/followers/AhmadUllahMukhlis?style=for-the-badge">
+<a href="https://github.com?tab=followers">
+<img src="https://shields.io">
 </a>
 
 <a href="mailto:ahmadullahmukhlis2025@gmail.com">
@@ -169,25 +169,25 @@ Lead Full-Stack Engineer
 
 <td>
 <img 
-src="https://github-readme-stats.vercel.app/api?username=AhmadUllahMukhlis&show_icons=true&theme=tokyonight&hide_border=true"
+src="https://vercel.app"
 />
 </td>
 
 <td>
 <img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadUllahMukhlis&theme=tokyonight&hide_border=true"
+src="https://herokuapp.com"
 />
 </td>
 
 <td>
 <img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadUllahMukhlis&layout=compact&theme=tokyonight&hide_border=true"
+src="https://vercel.app"
 />
 </td>
 
 <td>
 <img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmadUllahMukhlis&theme=tokyonight"
+src="https://vercel.app"
 />
 </td>
 
@@ -207,19 +207,19 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 
 <td>
 <img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmadUllahMukhlis&theme=tokyonight"
+src="https://vercel.app"
 />
 </td>
 
 <td>
 <img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmadUllahMukhlis&theme=tokyonight"
+src="https://vercel.app"
 />
 </td>
 
 <td>
 <img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AhmadUllahMukhlis&theme=tokyonight&utcOffset=4.5"
+src="https://vercel.app"
 />
 </td>
 
