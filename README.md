@@ -5,7 +5,7 @@
 <div align="center">
 
 <img 
-src="https://vercel.app"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Muhammad%20Aslam%20HemmatQachmas&fontSize=42&fontAlign=50&fontAlignY=38&desc=Senior%20Full-Stack%20Software%20Engineer&descAlign=50&descAlignY=58"
 />
 
 </div>
@@ -22,19 +22,19 @@ Senior Full-Stack Engineer • Enterprise Architect • Payment Systems Speciali
 
 <div align="center">
 
-<a href="https://github.com">
-<img src="https://komarev.com">
+<a href="https://github.com/HemmatQachmas">
+<img src="https://komarev.com/ghpvc/?username=HemmatQachmas&style=for-the-badge&color=0e75b6">
 </a>
 
-<a href="https://github.com?tab=followers">
-<img src="https://shields.io">
+<a href="https://github.com/HemmatQachmas?tab=followers">
+<img src="https://img.shields.io/github/followers/HemmatQachmas?style=for-the-badge">
 </a>
 
-<a href="mailto:ahmadullahmukhlis2025@gmail.com">
+<a href="mailto:Qachmas@outlook.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/HemmatQachmas">
 <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin">
 </a>
 
@@ -99,8 +99,8 @@ width="200"
 
 <img src="./logos/baheer.png" width="70"><br><br>
 
-<b>Baheer Group</b><br>
-Full-Stack Developer
+<b>Balkh University</b><br>
+Assistant Professor & Software Engineer
 
 </td>
 
@@ -109,7 +109,7 @@ Full-Stack Developer
 <img src="./logos/da_afg_bank.png" width="70"><br><br>
 
 <b>Da Afghanistan Bank</b><br>
-Senior Software Engineer
+Senior Manager, Systems Development & Applications
 
 </td>
 
@@ -117,7 +117,7 @@ Senior Software Engineer
 
 <img src="./logos/aps.png" width="70"><br><br>
 
-<b>APS Afghanistan</b><br>
+<b>Afghanistan Payments System (APS)</b><br>
 Lead Full-Stack Engineer
 
 </td>
@@ -169,25 +169,25 @@ Lead Full-Stack Engineer
 
 <td>
 <img 
-src="https://vercel.app"
+src="https://github-readme-stats.vercel.app/api?username=HemmatQachmas&show_icons=true&theme=tokyonight&hide_border=true"
 />
 </td>
 
 <td>
 <img 
-src="https://herokuapp.com"
+src="https://github-readme-streak-stats.herokuapp.com/?user=HemmatQachmas&theme=tokyonight&hide_border=true"
 />
 </td>
 
 <td>
 <img 
-src="https://vercel.app"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemmatQachmas&layout=compact&theme=tokyonight&hide_border=true"
 />
 </td>
 
 <td>
 <img 
-src="https://vercel.app"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HemmatQachmas&theme=tokyonight"
 />
 </td>
 
@@ -207,19 +207,19 @@ src="https://vercel.app"
 
 <td>
 <img 
-src="https://vercel.app"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HemmatQachmas&theme=tokyonight"
 />
 </td>
 
 <td>
 <img 
-src="https://vercel.app"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HemmatQachmas&theme=tokyonight"
 />
 </td>
 
 <td>
 <img 
-src="https://vercel.app"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HemmatQachmas&theme=tokyonight&utcOffset=4.5"
 />
 </td>
 
@@ -227,6 +227,5 @@ src="https://vercel.app"
 </table>
 
 <br>
-
 
 </div>
