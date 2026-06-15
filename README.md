@@ -97,7 +97,7 @@ width="200"
 
 <td align="center" width="220">
 
-<img src="./logos/baheer.png" width="70"><br><br>
+<img src="./logos/balkh university.png" width="70"><br><br>
 
 <b>Balkh University</b><br>
 Assistant Professor & Software Engineer
@@ -106,7 +106,7 @@ Assistant Professor & Software Engineer
 
 <td align="center" width="220">
 
-<img src="./logos/da_afg_bank.png" width="70"><br><br>
+<img src="./logos/DAB.png" width="70"><br><br>
 
 <b>Da Afghanistan Bank</b><br>
 Senior Manager, Systems Development & Applications
