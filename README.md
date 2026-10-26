@@ -95,11 +95,6 @@ Fintech Software Engineer • Enterprise Architect • Payment Systems Specialis
 <table>
 <tr>
 <td align="center" width="200">
-<img src="./logos/Q Logo.png" width="70"><br><br>
-<b>Qachmas Intelligence</b><br>
-Founder & CEO
-</td>
-<td align="center" width="200">
 <img src="./logos/balkh university.png" width="70"><br><br>
 <b>Balkh University</b><br>
 Assistant Professor & Software Engineer
@@ -113,6 +108,11 @@ Senior Manager, Systems Development & Applications
 <img src="./logos/aps.png" width="70"><br><br>
 <b>Afghanistan Payments System (APS)</b><br>
 Lead Full-Stack Engineer
+</td>
+  <td align="center" width="200">
+<img src="./logos/Q Logo.png" width="70"><br><br>
+<b>Qachmas Intelligence</b><br>
+Founder & CEO
 </td>
 </tr>
 </table>
