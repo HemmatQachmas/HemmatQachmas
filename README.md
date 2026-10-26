@@ -63,7 +63,7 @@ Senior Full-Stack Engineer • Enterprise Architect • Payment Systems Speciali
 <!--                 FOUNDER & CEO                     -->
 <!-- ================================================= -->
 
-<h2 align="center">Founder & CEO — <a href="https://qachmas.com/">Qachmas</a></h2>
+<h2 align="center">Founder & CEO — <a href="https://qachmas.com/">Qachmas Intelligence</a></h2>
 
 <div align="center">
 <table>
@@ -74,10 +74,8 @@ Senior Full-Stack Engineer • Enterprise Architect • Payment Systems Speciali
 <img src="https://img.shields.io/badge/🌐_Visit_Website-qachmas.com-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<b>CEO & Founder</b> of <a href="https://qachmas.com/"><b>Qachmas</b></a>
-
 <p align="justify">
-<em>Qachmas</em> is a technology-driven company focused on building modern digital solutions — delivering enterprise-grade software, secure payment systems, cloud infrastructure, and scalable web & mobile platforms. It blends deep engineering expertise with a commitment to innovation, reliability, and secure digital transformation for businesses and institutions.
+<em>Qachmas Intelligence</em> is a technology-driven company focused on building modern digital solutions — delivering enterprise-grade software, secure payment systems, cloud infrastructure, and scalable web & mobile platforms. It blends deep engineering expertise with a commitment to innovation, reliability, and secure digital transformation for businesses and institutions.
 </p>
 
 </td>
@@ -112,66 +110,3 @@ Lead Full-Stack Engineer
 </tr>
 </table>
 </div>
-
-<!-- ================================================= -->
-<!--                    TECH STACK                     -->
-<!-- ================================================= -->
-
-<h2 align="center">Technology Stack</h2>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,angular,vue,ts,js,php,laravel,python,mysql,postgresql,docker,kubernetes,linux,git,redis,mongodb,nginx" />
-</div>
-
-<!-- ================================================= -->
-<!--                   SYSTEM TOOLS                    -->
-<!-- ================================================= -->
-
-<h2 align="center">Platforms & Tools</h2>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=aws,gcp,firebase,postman,github,gitlab,idea,vscode,ubuntu,bash,maven,gradle,kafka,rabbitmq,jenkins" />
-</div>
-
-<!-- ================================================= -->
-<!--                 GITHUB ANALYTICS                  -->
-<!-- ================================================= -->
-
-<h2 align="center">GitHub Analytics</h2>
-
-<table align="center">
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=HemmatQachmas&show_icons=true&theme=tokyonight&hide_border=true" />
-</td>
-<td>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HemmatQachmas&theme=tokyonight&hide_border=true" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemmatQachmas&layout=compact&theme=tokyonight&hide_border=true" />
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HemmatQachmas&theme=tokyonight" />
-</td>
-</tr>
-</table>
-
-<!-- ================================================= -->
-<!--               DEVELOPMENT METRICS                 -->
-<!-- ================================================= -->
-
-<h2 align="center">Development Metrics</h2>
-
-<table align="center">
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HemmatQachmas&theme=tokyonight" />
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HemmatQachmas&theme=tokyonight" />
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HemmatQachmas&theme=tokyonight&utcOffset=4.5" />
-</td>
-</tr>
-</table>
