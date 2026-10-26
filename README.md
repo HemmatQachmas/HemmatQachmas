@@ -77,7 +77,7 @@ Fintech Software Engineer • Enterprise Architect • Payment Systems Specialis
 </a>
 
 <p align="justify">
-<em>Qachmas Intelligence</em> is a technology-driven company focused on building modern digital solutions — delivering enterprise-grade software, secure payment systems, cloud infrastructure, and scalable web & mobile platforms. It blends deep engineering expertise with a commitment to innovation, reliability, and secure digital transformation for businesses and institutions.
+<em>Qachmas Intelligence</em> is a technology-driven company focused on building modern digital solutions, delivering enterprise-grade software, secure payment systems, cloud infrastructure, and scalable web & mobile platforms. It blends deep engineering expertise with a commitment to innovation, reliability, and secure digital transformation for businesses and institutions.
 </p>
 
 </td>
