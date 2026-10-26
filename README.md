@@ -38,6 +38,10 @@ Senior Full-Stack Engineer • Enterprise Architect • Payment Systems Speciali
 <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin">
 </a>
 
+<a href="https://qachmas.com/">
+<img src="https://img.shields.io/badge/WEBSITE-qachmas.com-28a745?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
 </div>
 
 <br>
@@ -77,6 +81,40 @@ width="200"
 
 </tr>
 
+</table>
+
+</div>
+
+<br>
+
+<!-- ================================================= -->
+<!--                 FOUNDER & CEO                     -->
+<!-- ================================================= -->
+
+<h2 align="center">Founder & CEO — <a href="https://qachmas.com/">Qachmas</a></h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="700">
+
+<a href="https://qachmas.com/">
+<img src="https://img.shields.io/badge/🌐_Visit_Website-qachmas.com-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br><br>
+
+<b>CEO & Founder</b> of <a href="https://qachmas.com/"><b>Qachmas</b></a>
+
+<br><br>
+
+<p align="justify">
+<em>Qachmas</em> is a technology-driven company focused on building modern digital solutions — delivering enterprise-grade software, secure payment systems, cloud infrastructure, and scalable web & mobile platforms. It blends deep engineering expertise with a commitment to innovation, reliability, and secure digital transformation for businesses and institutions.
+</p>
+
+</td>
+</tr>
 </table>
 
 </div>
