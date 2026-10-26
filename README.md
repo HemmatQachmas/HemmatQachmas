@@ -3,68 +3,45 @@
 <!-- ================================================= -->
 
 <div align="center">
-
-<img 
-src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:29B6F6,50:4DD0E1,100:66BB6A&text=Muhammad%20Aslam%20HemmatQachmas&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Senior%20Full-Stack%20Software%20Engineer&descAlign=50&descAlignY=58&descSize=18"
-/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:29B6F6,50:4DD0E1,100:66BB6A&text=Muhammad%20Aslam%20HemmatQachmas&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Senior%20Full-Stack%20Software%20Engineer&descAlign=50&descAlignY=58&descSize=18" />
 </div>
 
 <h3 align="center">
 Senior Full-Stack Engineer • Enterprise Architect • Payment Systems Specialist
 </h3>
 
-<br>
-
 <!-- ================================================= -->
 <!--                     BADGES                        -->
 <!-- ================================================= -->
 
 <div align="center">
-
 <a href="https://github.com/HemmatQachmas">
 <img src="https://komarev.com/ghpvc/?username=HemmatQachmas&style=for-the-badge&color=0e75b6">
 </a>
-
 <a href="https://github.com/HemmatQachmas?tab=followers">
 <img src="https://img.shields.io/github/followers/HemmatQachmas?style=for-the-badge">
 </a>
-
 <a href="mailto:Qachmas@outlook.com">
 <img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail">
 </a>
-
 <a href="https://linkedin.com/in/HemmatQachmas">
 <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin">
 </a>
-
 <a href="https://qachmas.com/">
 <img src="https://img.shields.io/badge/WEBSITE-qachmas.com-28a745?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
-
 </div>
-
-<br>
 
 <!-- ================================================= -->
 <!--                  PROFESSIONAL SUMMARY             -->
 <!-- ================================================= -->
 
 <div align="center">
-
 <table>
-
 <tr>
-
 <td width="220">
-
-<img 
-src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" 
-width="200"
-/>
-
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200" />
 </td>
-
 <td align="left">
 
 ## Professional Summary
@@ -78,14 +55,9 @@ width="200"
 - Cloud Infrastructure & DevOps
 
 </td>
-
 </tr>
-
 </table>
-
 </div>
-
-<br>
 
 <!-- ================================================= -->
 <!--                 FOUNDER & CEO                     -->
@@ -94,7 +66,6 @@ width="200"
 <h2 align="center">Founder & CEO — <a href="https://qachmas.com/">Qachmas</a></h2>
 
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="700">
@@ -103,11 +74,7 @@ width="200"
 <img src="https://img.shields.io/badge/🌐_Visit_Website-qachmas.com-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<br><br>
-
 <b>CEO & Founder</b> of <a href="https://qachmas.com/"><b>Qachmas</b></a>
-
-<br><br>
 
 <p align="justify">
 <em>Qachmas</em> is a technology-driven company focused on building modern digital solutions — delivering enterprise-grade software, secure payment systems, cloud infrastructure, and scalable web & mobile platforms. It blends deep engineering expertise with a commitment to innovation, reliability, and secure digital transformation for businesses and institutions.
@@ -116,10 +83,7 @@ width="200"
 </td>
 </tr>
 </table>
-
 </div>
-
-<br>
 
 <!-- ================================================= -->
 <!--                     EXPERIENCE                    -->
@@ -128,45 +92,26 @@ width="200"
 <h2 align="center">Professional Experience</h2>
 
 <div align="center">
-
 <table>
-
 <tr>
-
 <td align="center" width="220">
-
 <img src="./logos/balkh university.png" width="70"><br><br>
-
 <b>Balkh University</b><br>
 Assistant Professor & Software Engineer
-
 </td>
-
 <td align="center" width="220">
-
 <img src="./logos/DAB.png" width="70"><br><br>
-
 <b>Da Afghanistan Bank</b><br>
 Senior Manager, Systems Development & Applications
-
 </td>
-
 <td align="center" width="220">
-
 <img src="./logos/aps.png" width="70"><br><br>
-
 <b>Afghanistan Payments System (APS)</b><br>
 Lead Full-Stack Engineer
-
 </td>
-
 </tr>
-
 </table>
-
 </div>
-
-<br>
 
 <!-- ================================================= -->
 <!--                    TECH STACK                     -->
@@ -175,12 +120,8 @@ Lead Full-Stack Engineer
 <h2 align="center">Technology Stack</h2>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,spring,nodejs,react,angular,vue,ts,js,php,laravel,python,mysql,postgresql,docker,kubernetes,linux,git,redis,mongodb,nginx" />
-
 </div>
-
-<br>
 
 <!-- ================================================= -->
 <!--                   SYSTEM TOOLS                    -->
@@ -189,12 +130,8 @@ Lead Full-Stack Engineer
 <h2 align="center">Platforms & Tools</h2>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=aws,gcp,firebase,postman,github,gitlab,idea,vscode,ubuntu,bash,maven,gradle,kafka,rabbitmq,jenkins" />
-
 </div>
-
-<br>
 
 <!-- ================================================= -->
 <!--                 GITHUB ANALYTICS                  -->
@@ -204,35 +141,20 @@ Lead Full-Stack Engineer
 
 <table align="center">
 <tr>
-
 <td>
-<img 
-src="https://github-readme-stats.vercel.app/api?username=HemmatQachmas&show_icons=true&theme=tokyonight&hide_border=true"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=HemmatQachmas&show_icons=true&theme=tokyonight&hide_border=true" />
 </td>
-
 <td>
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=HemmatQachmas&theme=tokyonight&hide_border=true"
-/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HemmatQachmas&theme=tokyonight&hide_border=true" />
 </td>
-
 <td>
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemmatQachmas&layout=compact&theme=tokyonight&hide_border=true"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemmatQachmas&layout=compact&theme=tokyonight&hide_border=true" />
 </td>
-
 <td>
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HemmatQachmas&theme=tokyonight"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HemmatQachmas&theme=tokyonight" />
 </td>
-
 </tr>
 </table>
-
-<br>
 
 <!-- ================================================= -->
 <!--               DEVELOPMENT METRICS                 -->
@@ -242,28 +164,14 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-languag
 
 <table align="center">
 <tr>
-
 <td>
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HemmatQachmas&theme=tokyonight"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HemmatQachmas&theme=tokyonight" />
 </td>
-
 <td>
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HemmatQachmas&theme=tokyonight"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HemmatQachmas&theme=tokyonight" />
 </td>
-
 <td>
-<img 
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HemmatQachmas&theme=tokyonight&utcOffset=4.5"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HemmatQachmas&theme=tokyonight&utcOffset=4.5" />
 </td>
-
 </tr>
 </table>
-
-<br>
-
-</div>
