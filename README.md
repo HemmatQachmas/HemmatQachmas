@@ -3,11 +3,11 @@
 <!-- ================================================= -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:29B6F6,50:4DD0E1,100:66BB6A&text=Muhammad%20Aslam%20HemmatQachmas&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Senior%20Full-Stack%20Software%20Engineer&descAlign=50&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:29B6F6,50:4DD0E1,100:66BB6A&text=Muhammad%20Aslam%20HemmatQachmas&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Fintech%20Software%20Engineer&descAlign=50&descAlignY=58&descSize=18" />
 </div>
 
 <h3 align="center">
-Senior Full-Stack Engineer • Enterprise Architect • Payment Systems Specialist
+Fintech Software Engineer • Enterprise Architect • Payment Systems Specialist
 </h3>
 
 <!-- ================================================= -->
@@ -46,13 +46,15 @@ Senior Full-Stack Engineer • Enterprise Architect • Payment Systems Speciali
 
 ## Professional Summary
 
-- Enterprise Web Application Development
-- Banking & Payment Integration Systems
-- API Gateway & Middleware Architecture
-- Microservices & Distributed Systems
-- Mobile & Web Platform Engineering
-- Secure Authentication & IAM Systems
-- Cloud Infrastructure & DevOps
+- Custom software, web, mobile, and CMS development with UX/UI design
+- Digital banking platforms, core banking modernization, and embedded finance
+- Payment integration, gateways, wallets, remittance, and cross-border payments
+- Lending and credit technology: origination, scoring, management, and BNPL
+- WealthTech, trading platforms, portfolio management, and market data
+- Security, compliance, KYC/AML, cryptography, HSM, and fraud detection
+- Cloud-native infrastructure, DevOps, AI/ML integration, and automation
+- Blockchain, digital assets, wallets, tokenization, and DeFi
+- Fintech consulting, QA, security testing, and product support
 
 </td>
 </tr>
