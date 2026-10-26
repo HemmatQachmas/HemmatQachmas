@@ -95,7 +95,7 @@ Fintech Software Engineer • Enterprise Architect • Payment Systems Specialis
 <table>
 <tr>
 <td align="center" width="200">
-<img src="./logos/Q logo.png" width="70"><br><br>
+<img src="./logos/Q Logo.png" width="70"><br><br>
 <b>Qachmas Intelligence</b><br>
 Founder & CEO
 </td>
