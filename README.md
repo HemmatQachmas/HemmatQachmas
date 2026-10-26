@@ -3,7 +3,7 @@
 <!-- ================================================= -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:29B6F6,50:4DD0E1,100:66BB6A&text=Muhammad%20Aslam%20HemmatQachmas&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Fintech%20Software%20Engineer&descAlign=50&descAlignY=58&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A1F44,50:00B4D8,100:90E0EF&text=Muhammad%20Aslam%20HemmatQachmas&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Fintech%20Software%20Engineer&descAlign=50&descAlignY=58&descSize=18" />
 </div>
 
 <h3 align="center">
@@ -16,19 +16,19 @@ Fintech Software Engineer • Enterprise Architect • Payment Systems Specialis
 
 <div align="center">
 <a href="https://github.com/HemmatQachmas">
-<img src="https://komarev.com/ghpvc/?username=HemmatQachmas&style=for-the-badge&color=0e75b6">
+<img src="https://komarev.com/ghpvc/?username=HemmatQachmas&style=for-the-badge&color=00B4D8">
 </a>
 <a href="https://github.com/HemmatQachmas?tab=followers">
-<img src="https://img.shields.io/github/followers/HemmatQachmas?style=for-the-badge">
+<img src="https://img.shields.io/github/followers/HemmatQachmas?style=for-the-badge&color=00B4D8">
 </a>
 <a href="mailto:info@qachmas.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-0A1F44?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://linkedin.com/in/HemmatQachmas">
-<img src="https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A1F44?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://qachmas.com/">
-<img src="https://img.shields.io/badge/WEBSITE-qachmas.com-28a745?style=for-the-badge&logo=google-chrome&logoColor=white">
+<img src="https://img.shields.io/badge/WEBSITE-qachmas.com-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
 </div>
 
@@ -73,7 +73,7 @@ Fintech Software Engineer • Enterprise Architect • Payment Systems Specialis
 <td align="center" width="700">
 
 <a href="https://qachmas.com/">
-<img src="https://img.shields.io/badge/🌐_Visit_Website-qachmas.com-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_Visit_Website-qachmas.com-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
 <p align="justify">
@@ -109,7 +109,7 @@ Senior Manager, Systems Development & Applications
 <b>Afghanistan Payments System (APS)</b><br>
 Lead Full-Stack Engineer
 </td>
-  <td align="center" width="200">
+<td align="center" width="200">
 <img src="./logos/Q Logo.png" width="70"><br><br>
 <b>Qachmas Intelligence</b><br>
 Founder & CEO
